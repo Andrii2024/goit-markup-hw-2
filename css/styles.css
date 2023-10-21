@@ -64,9 +64,9 @@ line-height: 1.5;
 }
 .header-nav-link:active { color: #404BBF;
 text-decoration:underline;}
-.header-nav-link:hover{color: #404BBF;
+.header-nav-link:hover {color: #404BBF;
 }
-.header-nav-link:focus{color: #404BBF;
+.header-nav-link:focus {color: #404BBF;
 }
 .address {
 }
@@ -77,10 +77,12 @@ text-decoration:underline;}
 .address-link {
 line-height: 1.5;
 }
-.address-link:active{color: #404BBF;}
-
+.address-link:active {color: #404BBF;}
+.address-link:hover {color: #404BBF;}
+.address-link:focus {color: #404BBF;}
 
 /* <!-----------Section hero------------> */
+
 .hero {background-color: #2E2F42;
     width: 1440px;
 height: 600px;
