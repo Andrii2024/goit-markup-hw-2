@@ -252,13 +252,30 @@ background: #404BBF;
 
 /*============= SECTION card ===========*/
 
+.portfolio-list {
+}
+.list {
+}
+.portfolio-item {
+}
+.portfolio-link {
+}
+.link {
+}
+.portfolio-img {
+}
+.portfolio-link-title {
+color: #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2; 
+letter-spacing: 0.02em;
+}
 
-.card-portfolio-list {
+.portfolio-link-p {line-height: 1.5;
 }
-.card-portfolio-item {
-}
-.card-portfolio-img { 
-}
+
+/*
 .card-portfolio-link {
 color: #2E2F42;
 font-size: 20px;
@@ -270,6 +287,6 @@ letter-spacing: 0.02em;
 line-height: 1.5; 
 
 }
-
+*/
 
 /*============= SECTION PORTFOLIO ===========*/
