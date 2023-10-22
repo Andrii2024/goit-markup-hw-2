@@ -245,7 +245,11 @@ line-height: 1.5;
 
 .button-hero-list {
 }
-.button-hero-item {
+.button-hero-item { 
+
+}
+
+.button-hero-item-button {
     color:#4D5AE5;
 text-align: center;
 font-weight: 500;
@@ -254,7 +258,7 @@ letter-spacing: 0.04em;
 background: #F4F4FD ;
 }
 
-.button-hero-item:hover{
+.button-hero-item-button:hover{
 color: #FFF;
 background: #404BBF;
 }
