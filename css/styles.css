@@ -222,17 +222,15 @@ line-height: 1.5;
 /*============= PORTFOLIO ===========*/
 
 /*============= SECTION hero ===========*/
-/*.button-hero {
+.button-hero {
 
 
 }
 
 .button-hero-list {
 }
-.button-hero-item { 
 
-}
-*/
+
 .button-hero-item-button {
 color:#4D5AE5;
 text-align: center;
