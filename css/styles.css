@@ -169,7 +169,7 @@ letter-spacing: 0.02em;
 }
 .card-list {
 }
-.card-item {
+.card-item {background-color: #FFF;
 }
 .card-img {
     
@@ -270,9 +270,11 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2; 
 letter-spacing: 0.02em;
+text-transform: capitalize;
 }
 
 .portfolio-link-p {line-height: 1.5;
+    text-transform: capitalize;
 }
 
 /*
