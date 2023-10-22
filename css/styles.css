@@ -163,7 +163,7 @@ width: 264px;
 .about {width: 1128px;
 height: 412px;
 flex-shrink: 0;
-    
+padding: 1128px 412px;  
 }
 .about-title {
 color: #2E2F42;
@@ -279,6 +279,10 @@ line-height: 1.5;
 }
 
 .button-hero-list {
+    display: inline-flex;
+align-items: flex-start;
+gap: 24px;
+padding: 586px 48px;
 }
 
 
@@ -308,12 +312,26 @@ background: #404BBF;
 .list {
 }
 .portfolio-item {
+    display: flex;
+width: 360px;
+height: 420px;
+padding-bottom: 0px;
+flex-direction: column;
+align-items: flex-start;
+gap: 32px;
+flex-shrink: 0;
+border: 1px solid #E7E9FC;
 }
 .portfolio-link {
+    
+
 }
 .link {
 }
 .portfolio-img {
+    width: 360px;
+height: 300px;
+flex-shrink: 0;
 }
 .portfolio-link-title {
 color: #2E2F42;
