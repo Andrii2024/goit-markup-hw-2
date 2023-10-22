@@ -246,6 +246,10 @@ background: #F4F4FD ;
 color: #FFF;
 background: #404BBF;
 }
+.button-hero-item-button:focus{
+color: #FFF;
+background: #404BBF;
+}
 
 
 /*============= SECTION card ===========*/
