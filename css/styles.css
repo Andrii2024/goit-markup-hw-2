@@ -167,7 +167,7 @@ line-height: 1.11;
 text-transform: capitalize;
 letter-spacing: 0.02em;
 }
-.card-list {background-color: #fff;
+.card-list {
 }
 .card-item {
 }
@@ -222,7 +222,7 @@ line-height: 1.5;
 /*============= PORTFOLIO ===========*/
 
 /*============= SECTION hero ===========*/
-.button-hero {
+/*.button-hero {
 
 
 }
@@ -232,7 +232,7 @@ line-height: 1.5;
 .button-hero-item { 
 
 }
-
+*/
 .button-hero-item-button {
 color:#4D5AE5;
 text-align: center;
